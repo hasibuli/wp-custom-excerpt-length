@@ -23,7 +23,7 @@ you can set up content by word limit or character limit.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to your Dashboard after installation and navigate to "Settings >> Excerpt Settings" to configure the content or exceprt lenth & type.
 4. Replace <?php the_conent(); ?> by <?php echo conent(25); ?> - 25 word will be shown. 
-   OR
-   Replace <?php the_excerpt(); ?> by <?php echo excerpt(25); ?> - 25 word will be shown.
-   OR
-   Replace <?php the_excerpt(); ?> by <?php echo substr(get_the_excerpt(), 0,100) ?> - 100 character will be shown.
+OR
+Replace <?php the_excerpt(); ?> by <?php echo excerpt(25); ?> - 25 word will be shown.
+OR
+Replace <?php the_excerpt(); ?> by <?php echo substr(get_the_excerpt(), 0,100) ?> - 100 character will be shown.
