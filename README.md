@@ -1,24 +1,24 @@
-# wp-custom-excerpt-length
+# WP Custom Excerpt Length
 WP Custom Excerpt Length is a wordpress plugin to customize your wordpress website content or excerpt by word limit or character limit.
 
-== Description ==
+#== Description ==
 WP Custom Excerpt Length is a wordpress plugin to customize your wordpress website content or excerpt by word limit or character limit.
 
 You can set your custom content length or custom excerpt length by using this plugin. Need to replace your content or excerpt by our defined function. Also 
 
 you can set up content by word limit or character limit.
 
-= Usage =
+#= Usage =
 * Go to your Dashboard after installation and navigate to "Settings >> Excerpt Settings" to configure the content or exceprt lenth & type.
 
-= Features =
+#= Features =
   * Very easy installation
   * Flexible and easy to use
   * Admin Setting option
   * Plugin tested with IE6+, FF 20+, Chrome, Safari
 
 
-== Installation ==
+#== Installation ==
 1. Upload 'wp-custom-excerpt-length' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to your Dashboard after installation and navigate to "Settings >> Excerpt Settings" to configure the content or exceprt lenth & type.
